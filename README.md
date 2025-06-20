@@ -1,7 +1,7 @@
 # 🔢 Sudoku Solver 🧠 (HTML, CSS, JavaScript)
 
 A web-based **Sudoku Solver** that takes user input, solves the puzzle using backtracking algorithm, and displays the solved Sudoku on the same grid.  
-Built using HTML, CSS, and JavaScript — completely frontend-based, no backend required.
+Built using HTML, CSS, and JavaScript — completely frontend-based.
 
 ---
 
